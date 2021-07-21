@@ -1,0 +1,24 @@
+/**
+ * 引入常用的自定义变量，都是以wxy-开头，防止和其它冲突
+ */
+//重置uni.scss的变量
+// 调整为自适应
+/* 文字尺寸 */
+$uni-font-size-sm:0.7em;
+$uni-font-size-base:0.9em;
+$uni-font-size-lg:1.1em;
+
+/* 图片尺寸 */
+$uni-img-size-sm:1.5em;
+$uni-img-size-base:2em;
+$uni-img-size-lg:4em;
+
+/* 水平间距 */
+$uni-spacing-row-sm: 0.2em;
+$uni-spacing-row-base: 0.4em;
+$uni-spacing-row-lg: 0.6em;
+
+/* 垂直间距 */
+$uni-spacing-col-sm: 0.2em;
+$uni-spacing-col-base: 0.3em;
+$uni-spacing-col-lg: 0.5em;
